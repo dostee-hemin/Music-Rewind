@@ -13,6 +13,7 @@ Link to the music used in the game:
 "Fix the Gear" Composed by Oscar Owl: https://www.youtube.com/watch?v=ObtLQJVCD5w
 
 To install and run the application:
+- Head over to the Itch.io page
 - Download the zip file
 - Unzip the file
 - Open the source folder inside
