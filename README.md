@@ -19,4 +19,4 @@ To install and run the application:
 - Open the source folder inside
 - Run the "MusicRewind" application inside the source folder (the application will not run if it is outside the source folder)
 
-Note: For users running Mac (OSX or later) and Windows64x, nothing else is required. However, for Windows32x users, you need to have Java 8 installed on your device. If you don't have java 8 installed on your computer, download it here: https://www.java.com/en/.
+Note: For users running Mac (OSX or later) and Windows64x, nothing else is required. However, for Windows32x users, you need to have Java 8 installed on your device. If you don't have java 8 installed on your device, download it here: https://www.java.com/en/.
